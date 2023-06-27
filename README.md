@@ -1,2 +1,2 @@
 # projeto-mestrado
-Detecção de máscara com os métodos de detecção Faster-RCNN, SSD e YOLO. O projeto de mestrado iniciado em 2020 e concluído em 2023.
+Detecção de máscara com os algoritmos de detecção Faster-RCNN, SSD e YOLO. O projeto de mestrado iniciado em 2020 e concluído em 2023.
