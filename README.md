@@ -14,10 +14,27 @@ O _dataset_, _scripts_ e os notebooks (google colab) estão disponíveis no goog
 
 #Tensorflow API Object Detection.
 
-Estrutura de diretórios.
+Estrutura de diretórios:
 
+Um diretório raiz chamado “tensorflow” e dois subdiretórios “scripts” e  “workspace”. No diretório “scripts” temos um subdiretório “preprocessing”, que contém o script generate_tfrecord.py para geração dos arquivos train.record e test.record, Os scripts estão em bit.ly/3CS0FfZ.
 
-Um diretório raiz chamado “tensorflow” e dois subdiretórios “scripts” e  “workspace”.
+O diretório “workspace” contém um subdiretório nomeado como “trained_demo”.  No diretório “trained_demo” temos os subdiretórios “annotations”, “exported-models”, “images”, “models” e “pre-trained-models”, o papel de cada um deles são descritos da seguinte maneira:
+•	Annotations – Contém um arquivo label_map.pbtxt (arquivo criado em branco com o aplicativo Notepad++), que contém o nome das categorias. No mesmo local, ainda se encontra os arquivos train.record e test.record;
+•	Exported-models – Local onde será salvo o modelo para inferência;
+•	Images – Contém subdiretórios “train” e “test”, respectivamente as imagens de treino e as imagens de teste;
+•	Models – local onde armazenam os pesos treinados com o arquivo de índice “ckpt-1.index”, “ckpt-2.index” e assim por diante. Nesse local, temos um arquivo de checkpoint (usado para continuar o treinamento de um ponto de parada) e um arquivo de configuração pipeline.config, onde os parâmetros alterados foram:
+a)	num_classes: número de classes a ser detectado;
+b)	batch_size: tamanho do lote;
+c)	fine_tune_checkpoint: local dos pesos pré-treinado;
+d)	fine_tune_checkpoint_type: “detection”;
+e)	use_bfloat16: false;
+f)	label_map_path: local do arquivo label_map.pbtxt;
+g)	train_input_reader e input_path: local do arquivos train.record;
+h)	metrics_set: Alterado para "pascal_voc_detection_metrics ";
+i)	eval_input_reader e input_path: local do arquivo test.record;
+j)	num_steps: total de iterações.
+•	Pre-trained-models: contém o arquivo pipeline.config original e um subdiretório com o nome “checkpoint” com o download dos pesos do modelo pré-treinado baixado do repositório.
+
 
 
 
