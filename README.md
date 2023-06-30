@@ -10,7 +10,7 @@ O hardware considerado para todos os experimentos, tanto para o treinamento e av
 
 O _dataset_, _scripts_ e os notebooks (google colab) estão disponíveis no google drive, no link: bit.ly/3CS0FfZ
 
-# Detalhes do ambiente
+# Detalhes da implementação.
 
 
 
