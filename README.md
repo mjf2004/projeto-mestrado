@@ -12,7 +12,7 @@ O _dataset_, _scripts_ e os notebooks (google colab) estão disponíveis no goog
 
 # Detalhes da implementação.
 
-Tensorflow API Object Detection \n
+Tensorflow API Object Detection /n
 Estrutura de diretórios:
 Um diretório raiz chamado “tensorflow” e dois subdiretórios “scripts” e  “workspace”.
 
