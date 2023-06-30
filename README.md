@@ -1,7 +1,7 @@
 # projeto-mestrado
 Detecção de máscara com os algoritmos de detecção Faster-RCNN, SSD e YOLO. O projeto de mestrado iniciado em 2020 e concluído em 2023.
 
-Projeto de mestrado iniciado em 2000. Neste projeto foram usados nove modelos pré-treinados de redes neurais e três algoritmos de detecção de objetos Faster R-CNN, SSD e YOLO.
+Neste projeto foram usados nove modelos pré-treinados de redes neurais e três algoritmos de detecção de objetos Faster R-CNN, SSD e YOLO.
 
 # Recursos:
 Frameworks utilizados: Tensorflow API Object Detection e Darknet.
