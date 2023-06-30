@@ -4,7 +4,7 @@ Detecção de máscara com os algoritmos de detecção Faster-RCNN, SSD e YOLO. 
 Projeto de mestrado iniciado em 2000. Neste projeto foram usados nove modelos pré-treinados de redes neurais e três algoritmos de detecção de objetos Faster R-CNN, SSD e YOLO.
 
 # Recursos:
-Frameworks utilizados: Tensorflow API Object Detection e Darknet
+Frameworks utilizados: Tensorflow API Object Detection e Darknet.
 
 O hardware considerado para todos os experimentos, tanto para o treinamento e avaliação, quanto para a inferência são as seguintes: 2 Processadores Intel(R) Xeon(R) CPU @ 2.20GHz, 25 GB de memória RAM e placa de vídeo Tesla P100-PCIE; informações retiradas no terminal do Google Colaboratory.
 
