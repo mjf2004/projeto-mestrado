@@ -52,7 +52,7 @@ j)	num_steps: total de iterações.
 
 Treinamento, Exportação e Avaliação
 
-Para facilitar a execução dos comandos de treinamento, exportação do modelo e avaliação, dois arquivos “model_main_tf2.py” (script de treinamento) e “exporter_main_v2.py” (script de exportação do modelo) foram copiados do diretório de instalação da Tensorflow API Object Detection para o diretório “trained_demo”. Considerando uma nova célula do terminal, no nível do diretório “trained_demo”
+Para facilitar a execução dos comandos de treinamento, exportação do modelo e avaliação, dois arquivos “model_main_tf2.py” (script de treinamento) e “exporter_main_v2.py” (script de exportação do modelo) foram copiados do diretório de instalação da Tensorflow API Object Detection para o diretório “trained_demo”. Considerando uma nova célula do terminal, no nível do diretório “trained_demo” usando os pesos da arquitetura SSD Resnet 50 v1 FPN, os comandos são mostrados na tabela abaixo:
 
 
 
