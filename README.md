@@ -8,9 +8,11 @@ Frameworks utilizados: Tensorflow API Object Detection e Darknet
 
 O hardware considerado para todos os experimentos, tanto para o treinamento e avaliação, quanto para a inferência são as seguintes: 2 Processadores Intel(R) Xeon(R) CPU @ 2.20GHz, 25 GB de memória RAM e placa de vídeo Tesla P100-PCIE; informações retiradas no terminal do Google Colaboratory.
 
-O _dataset_ e os notebooks (google colab) estão disponíveis no link: 
+O _dataset_, _scripts_ e os notebooks (google colab) estão disponíveis no google drive:
 
 # Detalhes do ambiente
+
+
 
 
 
