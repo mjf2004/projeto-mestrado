@@ -50,6 +50,10 @@ j)	num_steps: total de iterações.
 
 •	Pre-trained-models: contém o arquivo pipeline.config original e um subdiretório com o nome “checkpoint” com o download dos pesos do modelo pré-treinado baixado do repositório.
 
+Treinamento, Exportação e Avaliação
+
+Para facilitar a execução dos comandos de treinamento, exportação do modelo e avaliação, dois arquivos “model_main_tf2.py” (script de treinamento) e “exporter_main_v2.py” (script de exportação do modelo) foram copiados do diretório de instalação da Tensorflow API Object Detection para o diretório “trained_demo”. Considerando uma nova célula do terminal, no nível do diretório “trained_demo”
+
 
 
 
