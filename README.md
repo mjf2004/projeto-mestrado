@@ -33,13 +33,21 @@ a)	num_classes: número de classes a ser detectado;
 b)	batch_size: tamanho do lote;
 
 c)	fine_tune_checkpoint: local dos pesos pré-treinado;
+
 d)	fine_tune_checkpoint_type: “detection”;
+
 e)	use_bfloat16: false;
+
 f)	label_map_path: local do arquivo label_map.pbtxt;
+
 g)	train_input_reader e input_path: local do arquivos train.record;
+
 h)	metrics_set: Alterado para "pascal_voc_detection_metrics ";
+
 i)	eval_input_reader e input_path: local do arquivo test.record;
+
 j)	num_steps: total de iterações.
+
 •	Pre-trained-models: contém o arquivo pipeline.config original e um subdiretório com o nome “checkpoint” com o download dos pesos do modelo pré-treinado baixado do repositório.
 
 
