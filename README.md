@@ -19,6 +19,8 @@ No arquivo "Descrição e Detalhes das Implementações - TAOD e YOLO.docx" dest
 
 No arquivo "Link Para Os Arquivos do Projeto.txt" deste projeto, está o link para todos os arquivos do projeto necessários para reproduzir o ambiente de testes e inferência. Contém os arquivos do dataset, scripts e os notebooks (google colab).
 
+# Resultados
+
 
 
 
