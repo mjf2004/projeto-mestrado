@@ -15,7 +15,7 @@ O hardware considerado para todos os experimentos, tanto para o treinamento e av
 
 No arquivo "Descrição e Detalhes das Implementações - TAOD e YOLO.docx" deste projeto, estão os detalhes de implementação dos frameworks. Estão também a descrição dos scripts de instalação e inferência de cada framework.
 
-No arquivo "Link Para Os Arquivos do Projeto.txt" está o link para todos os arquivos do projeto necessários para reproduzir o ambiente de testes. Contém os arquivos do dataset, scripts e os notebooks (google colab). Link bit.ly/3CS0FfZ.
+No arquivo "Link Para Os Arquivos do Projeto.txt" deste projeto, está o link para todos os arquivos do projeto necessários para reproduzir o ambiente de testes e inferência. Contém os arquivos do dataset, scripts e os notebooks (google colab). Link bit.ly/3CS0FfZ.
 
 
 
