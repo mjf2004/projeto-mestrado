@@ -5,7 +5,9 @@ Neste projeto foram usados nove modelos pré-treinados de redes neurais e três 
 
 # Recursos:
 Frameworks utilizados: Tensorflow API Object Detection e Darknet.
+
 Dataset: Prajana dataset rotulado em português brasileiro.
+
 Modelos pré-treinados comparados: Faster R-CNN Resnet 50, Faster R-CNN Resnet 101, Faster Inception-Resnet-V2, SSD Mobilenet V2, SSD Mobilenet V2 FPNLite, SSD Resnet 50 V1 FPN, YOLOv2, YOLOv3 e YOLOv4.
 
 
