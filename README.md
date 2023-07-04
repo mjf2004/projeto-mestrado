@@ -19,6 +19,12 @@ No arquivo "Descrição e Detalhes das Implementações - TAOD e YOLO.docx" dest
 
 No arquivo "Link Para Os Arquivos do Projeto.txt" deste projeto, está o link para todos os arquivos do projeto necessários para reproduzir o ambiente de testes e inferência. Contém os arquivos do dataset, scripts e os notebooks (google colab).
 
+# Hiperparametros do Otimizador e âncoras
+
+![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/5b8604e3-e624-4e6b-8a78-8d7090465240)
+
+
+
 # Resultados
 
 
