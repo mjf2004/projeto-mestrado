@@ -39,9 +39,12 @@ Exemplo de inferências em cinco imagens de produção com o YOLOv4:
 ![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/5b4ccfb5-5053-49fe-84cd-39a3fbf237d6)
 
 
-Exemplo de inferências em cinco imagens de produção com o SSD Mobilenetv2 FPNLite:
+Exemplo de inferências em cinco imagens de produção com o SSD Mobilenet-v2 FPNLite:
 ![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/f96737e9-8053-4dd3-b05b-3c3144d13c0f)
 
+Consolidação das cinco imagens em relação a verdadeiros positivos, falsos positivos e falsos neativos em cada arquitetura.
+
+![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/67c832dc-8268-45c5-b93f-f24f365c1c0d)
 
 
 
