@@ -30,9 +30,20 @@ Experimentos Usando uma Base 80-20, treinados com 1.098 do total de 1.372 imagen
 
 ![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/57687af7-528f-4861-b48c-2e9dd554ae5d)
 
-Os resultados relacionados ao mAP@50 é mostrado abaixo:
+Os resultados relacionados ao mAP@50 com 20% do dataset é mostrado abaixo:
 
 ![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/37b67aaa-8ee5-43fe-b09d-d5c1e89af887)
+
+
+Exemplo de inferências em cinco imagens de produção com o YOLOv4:
+![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/5b4ccfb5-5053-49fe-84cd-39a3fbf237d6)
+
+
+Exemplo de inferências em cinco imagens de produção com o SSD Mobilenetv2 FPNLite:
+![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/f96737e9-8053-4dd3-b05b-3c3144d13c0f)
+
+
+
 
 
 
