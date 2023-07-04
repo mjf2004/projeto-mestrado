@@ -26,7 +26,9 @@ No arquivo "Link Para Os Arquivos do Projeto.txt" deste projeto, está o link pa
 
 
 # Resultados
+Experimentos Usando uma Base 80-20, treinados com 1.098 do total de 1.372 imagens.
 
+![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/57687af7-528f-4861-b48c-2e9dd554ae5d)
 
 
 
