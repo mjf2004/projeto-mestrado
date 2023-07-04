@@ -50,6 +50,8 @@ Consolidação das cinco imagens em relação a verdadeiros positivos (VP), fals
 
 ![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/f5ae89a8-471a-46ce-8878-1d4214610e22)
 
+# Outros resultados
+![image](https://github.com/mjf2004/projeto-mestrado/assets/71648038/16552c62-ac4b-44bd-b436-523a9e4562e3)
 
 
 
